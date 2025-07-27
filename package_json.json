@@ -1,0 +1,37 @@
+{
+  "name": "anvisa-web-scraper",
+  "version": "1.0.0",
+  "description": "🏥 Scraper automatizado para consultas de medicamentos na ANVISA com precisão de 100% e validação robusta",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "anvisa",
+    "medicamentos",
+    "web-scraping",
+    "apify",
+    "brazil",
+    "pharmaceutical",
+    "regulatory",
+    "automation"
+  ],
+  "author": "ANVISA Web Scraper Project",
+  "license": "MIT",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "crawlee": "^3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/[username]/anvisa-web-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/[username]/anvisa-web-scraper/issues"
+  },
+  "homepage": "https://github.com/[username]/anvisa-web-scraper#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
