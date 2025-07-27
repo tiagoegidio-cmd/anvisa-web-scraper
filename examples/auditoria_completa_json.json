@@ -1,0 +1,14 @@
+{
+  "nomeProduto": "insulina",
+  "cnpjDetentor": "12.345.678/0001-90",
+  "situacaoRegularizacao": "Ambos",
+  "maxResults": 300,
+  "incluirDetalhes": true,
+  "estrategiasCustomizadas": [
+    "insulina humana",
+    "insulina recombinante", 
+    "insulina glargina",
+    "insulina lispro",
+    "insulina aspart"
+  ]
+}

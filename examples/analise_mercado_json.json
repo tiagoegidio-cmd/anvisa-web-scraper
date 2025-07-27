@@ -1,0 +1,13 @@
+{
+  "nomeProduto": "ibuprofeno",
+  "tipoRegularizacao": "MEDICAMENTO REGISTRADO",
+  "situacaoRegularizacao": "Ativo",
+  "maxResults": 150,
+  "incluirDetalhes": true,
+  "estrategiasCustomizadas": [
+    "ibuprofeno sódico",
+    "ibuprofeno arginina",
+    "ibuprofeno gotas",
+    "ibuprofeno comprimido"
+  ]
+}

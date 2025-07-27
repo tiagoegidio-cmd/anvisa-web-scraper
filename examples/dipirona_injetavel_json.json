@@ -1,0 +1,12 @@
+{
+  "nomeProduto": "dipirona injetável",
+  "tipoRegularizacao": "MEDICAMENTO REGISTRADO",
+  "situacaoRegularizacao": "Ativo",
+  "maxResults": 30,
+  "incluirDetalhes": true,
+  "criteriosExclusao": ["paracetamol", "cafeína", "associação"],
+  "estrategiasCustomizadas": [
+    "dipirona sódica injetável",
+    "metamizol injetável"
+  ]
+}
