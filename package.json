@@ -25,12 +25,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/[username]/anvisa-web-scraper.git"
+    "url": "git+https://github.com/tiagoegidio-cmd/anvisa-web-scraper.git"
   },
   "bugs": {
-    "url": "https://github.com/[username]/anvisa-web-scraper/issues"
+    "url": "https://github.com/tiagoegidio-cmd/anvisa-web-scraper/issues"
   },
-  "homepage": "https://github.com/[username]/anvisa-web-scraper#readme",
+  "homepage": "https://github.com/tiagoegidio-cmd/anvisa-web-scraper#readme",
   "engines": {
     "node": ">=14.0.0"
   }
